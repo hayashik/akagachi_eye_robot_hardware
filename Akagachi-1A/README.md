@@ -10,9 +10,9 @@ Type-1 is a small one (eye siza: 30mm) and a compact mode.
 
 |Overviews||  
 |:---|:---|  
-|<img src=https://github.com/Yasu31/robot-eyes/blob/master/cad/Akagachi-1A/images/DSC00029.JPG alt="Overview" width="320px">|<img src=https://github.com/Yasu31/robot-eyes/blob/master/cad/Akagachi-1A/images/DSC00030.JPG alt="Back" width="320px">|  
-|<img src=https://github.com/Yasu31/robot-eyes/blob/master/cad/Akagachi-1A/images/DSC00031.JPG alt="Bottom" width="320px">|<img src=https://github.com/Yasu31/robot-eyes/blob/master/cad/Akagachi-1A/images/DSC00033.JPG alt="Yaw servo" width="320px">|  
-|<img src=https://github.com/Yasu31/robot-eyes/blob/master/cad/Akagachi-1A/images/DSC00034.JPG alt="Side" width="320px">||  
+|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00029.JPG alt="Overview" width="320px">|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00030.JPG alt="Back" width="320px">|  
+|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00031.JPG alt="Bottom" width="320px">|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00033.JPG alt="Yaw servo" width="320px">|  
+|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00034.JPG alt="Side" width="320px">||  
 
 ## CAD data
 We are assuming that these parts are 3D printed by the ABS or the Nylon.
@@ -52,5 +52,4 @@ I would really appreciate your sharing of new appropriate parts.
 |M2 x 8||Yaw-bracket-xx is fixed to Pitch servo horn (4 screws). 2 yaw Servos are fixed to Yaw-bracket-xx (4 screws). CELP-camera is fixed to CameraHold (4 screws & 4 nuts). Servo horn and Yaw-bracket-xx are need to be threaded screw hole|
 |M3 x 8||Pitch-servo-mt-xx (4 screws) and CameraHold (2 screws & nuts) are fixed to 1-A-CameraStand. Pitch-servo-mt-xx is need to be threaded 4 screw hole|
 |M3 x 15||Pitch servo is fixed to Pitch-servo-mt-xx (2 screws). Pitch-servo-mt-xx is need to be threaded 2 screw hole|
-
 

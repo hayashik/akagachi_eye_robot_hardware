@@ -7,7 +7,7 @@ There are follow two modes.
 - Merit : Compact, easy to modify
 - Demerit : Brush servo moters that connected directly will lower the robustness
 
-<img src=https://github.com/Yasu31/robot-eyes/blob/master/cad/Akagachi-1A/images/DSC00029.JPG alt="Overview1-A" width="320px">
+<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/Akagachi-1A/images/DSC00029.JPG alt="Overview1-A" width="320px">
 
 
 ## Akagachi type1 mode B

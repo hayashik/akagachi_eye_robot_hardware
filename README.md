@@ -1,7 +1,7 @@
 # CAD data for DIY Akagachi
 This data to develop your own Akagachi eye component.
-3D printable data and 3D cad data are available.
-There are follow two modes.
+3D printable data and 3D cad data are available. Software details are [here](https://github.com/hayashik/akagachi_eye_robot_ros).
+There are follow two modes.  
 
 ## Akagachi type1 mode A
 - Merit : Compact, easy to modify

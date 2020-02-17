@@ -10,9 +10,9 @@ Type-1 is a small one (eye siza: 30mm) and a compact mode.
 
 |Overviews||  
 |:---|:---|  
-|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00029.JPG alt="Overview" width="320px">|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00030.JPG alt="Back" width="320px">|  
-|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00031.JPG alt="Bottom" width="320px">|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00033.JPG alt="Yaw servo" width="320px">|  
-|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/cad/Akagachi-1A/images/DSC00034.JPG alt="Side" width="320px">||  
+|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/Akagachi-1A/images/DSC00029.JPG alt="Overview" width="320px">|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/Akagachi-1A/images/DSC00030.JPG alt="Back" width="320px">|  
+|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/Akagachi-1A/images/DSC00031.JPG alt="Bottom" width="320px">|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/Akagachi-1A/images/DSC00033.JPG alt="Yaw servo" width="320px">|  
+|<img src=https://github.com/hayashik/akagachi_eye_robot_hardware/blob/master/Akagachi-1A/images/DSC00034.JPG alt="Side" width="320px">||  
 
 ## CAD data
 We are assuming that these parts are 3D printed by the ABS or the Nylon.
